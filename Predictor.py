@@ -25,8 +25,12 @@ print(round(accuracy*100,2))
 y0 = model.predict(x)
 
 ### VISUALIZATION ###
-plt.plot(y,'-m')
-plt.plot(y0,'--b')
+plt.plot(y,'-m',label="Exact Number of Cases")
+plt.plot(y0,'--b',label="Predicted Number of Cases")
+plt.xlabel("Days After Start Of Corona")
+plt.ylabel("Number of Cases")
+plt.title("Table of Days and Cases")
+plt.legend()
 plt.show()
 
 ### PRINTING OUT THE SAMPLE ###
