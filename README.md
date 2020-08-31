@@ -30,7 +30,7 @@
 <h3>NASIL KULLANILIR?</h3>
 <h5>Adım 1:</h5>
 <p>Elinizi yıkayın :) .</p>
-<h5>Adım 2:</h5>````
+<h5>Adım 2:</h5>
 <p>Daha başarılı tahminler için bu linkten güncel verileri indirin: "https://ourworldindata.org/coronavirus-source-data".</p>
 <h5>Adım 3:</h5>
 <p>İndirdiğiniz dosyanın adından emim olun. Ya indirdiğiniz dosyanın adı "total_cases" olsun ya da kodun içinden değiştirin.</p></p>
