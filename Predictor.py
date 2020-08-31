@@ -20,7 +20,7 @@ x = polynomialFeatures.fit_transform(x)
 model = linear_model.LinearRegression()
 model.fit(x,y)
 accuracy = model.score(x,y)
-print("Accuracy of prediction will be: ",end="")
+print("Accuracy of prediction will be: %",end="")
 print(round(accuracy*100,2))
 y0 = model.predict(x)
 
