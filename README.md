@@ -37,7 +37,7 @@
 <h5>Adım 4:</h5>
 <p>Programı çalıştırın.</p>
 
-<h2> Example Screenshots </h2>
+<h2> Example Screenshots: </h2>
 <img src="ExamplePlot.png" alt="ExamplePlot.png">
 <br>
 <img src="Output.png" alt="Output.png">
