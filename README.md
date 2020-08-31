@@ -1,3 +1,8 @@
+<h2> Example Screenshots: </h2>
+<img src="ExamplePlot.png" alt="ExamplePlot.png">
+<br>
+<img src="Output.png" alt="Output.png">
+
 <h2>EN</h2>
 <h3>REQUIREMENTS FOR INTERPRETER</h3>
 <ul>
@@ -37,7 +42,3 @@
 <h5>Adım 4:</h5>
 <p>Programı çalıştırın.</p>
 
-<h2> Example Screenshots: </h2>
-<img src="ExamplePlot.png" alt="ExamplePlot.png">
-<br>
-<img src="Output.png" alt="Output.png">
